@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driverClassName: org.testcontainers.jdbc.ContainerDatabaseDriver
+    url: jdbc:tc:postgresql:9.6.12://ignored/ignored
+  jpa:
+    open-in-view: false
+  liquibase:
+    change-log: classpath:changelog.xml
+server:
+  port: 8082
