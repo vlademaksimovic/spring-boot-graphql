@@ -15,4 +15,4 @@ graphql:
       connection-check-relaxed: true
 
 server:
-  port: 8084
+  port: 8083

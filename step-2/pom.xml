@@ -11,7 +11,7 @@
     <groupId>com.seavus.kg.codetalks</groupId>
     <artifactId>CodeTalksDemoStep2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>GraphQLDemo</name>
+    <name>GraphQLDemoStep2</name>
     <description>Demo project for Seavus CodeTalks Kragujevac 2020</description>
 
     <properties>
